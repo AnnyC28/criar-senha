@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap")
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+:root{
+    --lilas: #b8c0ff;
+    --rosa-bebe: #ffd6ff;
+    --azul-bebe: #bbd0ff;
+    --roxo-claro: #c8b6ff;
+    --majin-boo: #ffe5ec;
+    --preto-preto: #000814;
+    --fonter-titulo: "Sedan SC", serif;
+    --fonte-texto: "Jaro", sans-serif;
+
+}
+
+body{
+    background-color: var(--azul-bebe);
+    color: var(--lilas);
+}
